@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Buddy</string>
+    <string name="appbar_scrolling_view_behavior">scrolling</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">home</string>
+    <string name="contact">Contact</string>
+</resources>
